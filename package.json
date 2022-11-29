@@ -1,3 +1,7 @@
 {
-  "branches": ["master"]
+  "branches": [
+    {
+      "name": "master"
+    }
+  ]
 }
