@@ -16,6 +16,9 @@ Commits are added in Agular format and must be one  of the following in order to
 - **refactor**: A code change that neither fixes a bug or adds a feature
 - **perf**: A code change that improves performance
 - **test**: Add missing or correcting existing test
+- **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+- **ci**: Changes to our CI Configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+- **revert**: Reverts a previous commit
 - **chore**: Changes the build process or auxiliary tools and libraries such as documentation
 
 
