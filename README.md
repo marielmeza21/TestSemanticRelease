@@ -20,8 +20,8 @@ Commits are added in Agular format and must be one  of the following in order to
 
 
 ### Suggestions for other documentation to read 
-- [Semantic-release Gitbook] (https://semantic-release.gitbook.io/semantic-release/usage/getting-started )
-- [Basic Guide to Semantic Release] (https://levelup.gitconnected.com/basic-guide-to-semantic-release-9e2aa7834e4b)
-- [Semantic Release changlog plugin] (https://github.com/semantic-release/changelog)
-- [Video - Fully Automated npm publish using Github Actions and Semantic Release] (https://www.youtube.com/watch?v=QZdY4XYbqLI)
-- [commitize/cz/cli] (https://github.com/commitizen/cz-cli)
+- [Semantic-release Gitbook](https://semantic-release.gitbook.io/semantic-release/usage/getting-started )
+- [Basic Guide to Semantic Release](https://levelup.gitconnected.com/basic-guide-to-semantic-release-9e2aa7834e4b)
+- [Semantic Release changlog plugin](https://github.com/semantic-release/changelog)
+- [Video - Fully Automated npm publish using Github Actions and Semantic Release](https://www.youtube.com/watch?v=QZdY4XYbqLI)
+- [commitize/cz/cli](https://github.com/commitizen/cz-cli)
