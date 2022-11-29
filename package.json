@@ -1,5 +1,6 @@
 {
   "name": "tbd",
+  "module": "test112922/tbd.js",
   "branches": [
     {
       "name": "master"
