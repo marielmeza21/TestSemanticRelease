@@ -18,7 +18,7 @@ public class Function
     {
         Console.WriteLine("Test more 1");
         Console.WriteLine("Test more 2");
-        Console.WriteLine("Test more 3 ");
+        Console.WriteLine("Test more 3");
         Console.WriteLine("Test more 4");
         return input.ToUpper();
     }
