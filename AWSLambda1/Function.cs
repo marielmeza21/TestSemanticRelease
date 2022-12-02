@@ -20,6 +20,8 @@ public class Function
         Console.WriteLine("Test more 2");
         Console.WriteLine("Test more 3 ");
         Console.WriteLine("Test more 4");
+        Console.WriteLine("Feature A");
+        Console.WriteLine("Feature B");
         Console.WriteLine("Test");
         return input.ToUpper();
     }
