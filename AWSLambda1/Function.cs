@@ -21,6 +21,7 @@ public class Function
         Console.WriteLine("Test more 3 ");
         Console.WriteLine("Test more 4");
         Console.WriteLine("Feature A");
+        Console.WriteLine("Feature B");
         return input.ToUpper();
     }
 }
