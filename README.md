@@ -28,3 +28,4 @@ Commits are added in Agular format and must be one  of the following in order to
 - [Semantic Release changlog plugin](https://github.com/semantic-release/changelog)
 - [Video - Fully Automated npm publish using Github Actions and Semantic Release](https://www.youtube.com/watch?v=QZdY4XYbqLI)
 - [commitize/cz/cli](https://github.com/commitizen/cz-cli)
+- [Automating Versioning and Releases Using Semantic Release](https://medium.com/agoda-engineering/automating-versioning-and-releases-using-semantic-release-6ed355ede742)

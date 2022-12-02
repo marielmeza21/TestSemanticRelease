@@ -19,6 +19,10 @@ jobs:
         uses: actions/setup-node@v2
         with: 
           node-version: ${{ matrix.node-version }}
+          extra_plugins: |
+            @semantic-release/git
+            @semantic-release/exec
+            @semantic-release/changelog
       - run: npm i
       - run: npm ci
       - run: npm run semantic-release
