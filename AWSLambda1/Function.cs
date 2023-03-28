@@ -29,6 +29,7 @@ public class Function
         Console.WriteLine("Feature B");
         Console.WriteLine("Test");
         Console.WriteLine("Test2");
+        Console.WriteLine("Test3");
 
         return input.ToUpper();
     }
