@@ -8,7 +8,7 @@ It will follow semantic versioning with the format of v{Major}{Minor}{Patch} e.g
 - {Major} >= 1 → 1st public stable release
 
 ## Adding a commit 
-Commits are added in Agular format and must be one  of the following in order to create a release: 
+Commits are added in Angular format and must be one  of the following in order to create a release: 
 - **feat**: A new feature
 - **fix**: A bug fix
 - **docs**: Documentation only changes
@@ -20,6 +20,7 @@ Commits are added in Agular format and must be one  of the following in order to
 - **ci**: Changes to our CI Configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
 - **revert**: Reverts a previous commit
 - **chore**: Changes the build process or auxiliary tools and libraries such as documentation
+*** In Addition to this if you are adding a breaking change you would need to add the following syntax on your commit description:  "BREAKING CHANGE:"
 
 
 ### Suggestions for other documentation to read 
